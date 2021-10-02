@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="fundamentals/Bonus Problem in String/|fundamentals/String/|fundamentals/2dArray/|Java_using_DSA/Test 4/|Java_using_DSA/Recursion_Assinments/" kind="src" path=""/>
+	<classpathentry kind="src" path="fundamentals/2dArray"/>
+	<classpathentry kind="src" path="fundamentals/Bonus Problem in String"/>
+	<classpathentry kind="src" path="fundamentals/String"/>
+	<classpathentry kind="src" path="Java_using_DSA/Recursion_Assinments"/>
+	<classpathentry kind="src" path="Java_using_DSA/Test 4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
